@@ -1,6 +1,6 @@
 # 오픈시프트 AI
 
-<img align="left" src="images/이승일--II_컴퓨터.png" height="300px" hrspace="25px" title="100px" alt="안녕"></img>
+<img align="left" src="images/이승일--II_컴퓨터.png" height="250px" hrspace="25px" title="100px" alt="안녕"></img>
 
 <br>
 <br>
