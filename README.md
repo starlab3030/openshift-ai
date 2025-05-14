@@ -5,10 +5,10 @@
 <br>
 <br>
 
-**오픈시프트 AI**<br>
+**모델 훈련**<br>
 <br>
-&nbsp;&nbsp;&nbsp;* [오픈시프트 상에서 KubeFlow를 통한 LLM Fine-Tuning](./openshift-ai/fine-tune_llms_with_kubeflow_trainer_on_openshift.md)<br>
-&nbsp;&nbsp;&nbsp;* [GPUDirect RDMA를 통한 모델 훈련 가속화](./openshift-ai/accelerate_model_training_with_nvidia_gpudirect_rdma.md)<br>
+&nbsp;&nbsp;&nbsp;* [오픈시프트 상에서 KubeFlow를 통한 LLM Fine-Tuning](./contents/fine-tune_llms_with_kubeflow_trainer_on_openshift.md)<br>
+&nbsp;&nbsp;&nbsp;* [GPUDirect RDMA를 통한 모델 훈련 가속화](./contents/accelerate_model_training_with_nvidia_gpudirect_rdma.md)<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
