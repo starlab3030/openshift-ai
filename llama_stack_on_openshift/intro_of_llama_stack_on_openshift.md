@@ -19,7 +19,11 @@
 * RAG, AI 에이전트, 모델 컨텍스트 프로토콜(이하 MCP: Model Context Protocol)을 통합하여 오픈시프트 내 사고 대응 시스템과 같은 정교한 자동화 시스템을 구축
 <br>
 
-### 1.2 오픈시프트 AI 테스트 환경
+### 1.2 시스템 아키텍처
+
+<img src="images/llama_on_rhoai--intro-lab_architecture.png" title="100px" alt="테스트 환경"/>
+
+### 1.3 오픈시프트 AI 테스트 환경
 
 * RHOAI (Red Hat OpenShift AI)
   + vLLM 모델 서버
