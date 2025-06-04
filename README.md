@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;* [RHOAI를 통해 AI 에이전트 구축](./contents/build_ai_agent_via_rhoai.md)<br>
 <br>
 
-**오픈시프트 상에 Llama 스택**
+**오픈시프트 상에 Llama 스택**<br>
 &nbsp;&nbsp;&nbsp;* [Llama 스택 랩 소개](./llama_stack_on_openshift/intro_of_llama_stack_on_openshift.md)<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
