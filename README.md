@@ -9,8 +9,14 @@
 <br>
 &nbsp;&nbsp;&nbsp;* [오픈시프트 상에서 KubeFlow를 통한 LLM Fine-Tuning](./contents/fine-tune_llms_with_kubeflow_trainer_on_openshift.md)<br>
 &nbsp;&nbsp;&nbsp;* [GPUDirect RDMA를 통한 모델 훈련 가속화](./contents/accelerate_model_training_with_nvidia_gpudirect_rdma.md)<br>
+<br>
+
+**AI 에이전트**<br>
 &nbsp;&nbsp;&nbsp;* [RHOAI를 통해 AI 에이전트 구축](./contents/build_ai_agent_via_rhoai.md)<br>
-&nbsp;&nbsp;&nbsp;<br>
+<br>
+
+**오픈시프트 상에 Llama 스택**
+&nbsp;&nbsp;&nbsp;* [Llama 스택 랩 소개](./llama_stack_on_openshift/intro_of_llama_stack_on_openshift.md)<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 
