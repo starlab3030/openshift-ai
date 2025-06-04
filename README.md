@@ -9,7 +9,7 @@
 <br>
 &nbsp;&nbsp;&nbsp;* [오픈시프트 상에서 KubeFlow를 통한 LLM Fine-Tuning](./contents/fine-tune_llms_with_kubeflow_trainer_on_openshift.md)<br>
 &nbsp;&nbsp;&nbsp;* [GPUDirect RDMA를 통한 모델 훈련 가속화](./contents/accelerate_model_training_with_nvidia_gpudirect_rdma.md)<br>
-&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;* [RHOAI를 통해 AI 에이전트 구축](./contents/build_ai_agent_via_rhoai.md)<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
