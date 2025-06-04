@@ -22,6 +22,7 @@
 ### 1.2 시스템 아키텍처
 
 <img src="images/llama_on_rhoai--intro-lab_architecture.png" title="100px" alt="테스트 환경"/>
+<br>
 
 ### 1.3 오픈시프트 AI 테스트 환경
 
