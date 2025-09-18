@@ -11,6 +11,12 @@
 &nbsp;&nbsp;&nbsp;* [GPUDirect RDMA를 통한 모델 훈련 가속화](./contents/accelerate_model_training_with_nvidia_gpudirect_rdma.md)<br>
 <br>
 
+**AI 추론 서비스**<br>
+<br>
+&nbsp;&nbsp;&nbsp;* [분산 AI 추론 서비스를 위한 llm-d](./contents/llm-d_for_distributed_ai_inference.md)<br>
+<br>
+
+
 **AI 에이전트**<br>
 &nbsp;&nbsp;&nbsp;* [RHOAI를 통해 AI 에이전트 구축](./contents/build_ai_agent_via_rhoai.md)<br>
 <br>
