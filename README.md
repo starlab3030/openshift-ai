@@ -6,8 +6,8 @@
 <br>
 
 **모델 훈련**<br>
-[오픈시프트 상에서 KubeFlow를 통한 LLM Fine-Tuning](./contents/fine-tune_llms_with_kubeflow_trainer_on_openshift.md)<br>
-[GPUDirect RDMA를 통한 모델 훈련 가속화](./contents/accelerate_model_training_with_nvidia_gpudirect_rdma.md)<br>
+* [오픈시프트 상에서 KubeFlow를 통한 LLM Fine-Tuning](./contents/fine-tune_llms_with_kubeflow_trainer_on_openshift.md)<br>
+* [GPUDirect RDMA를 통한 모델 훈련 가속화](./contents/accelerate_model_training_with_nvidia_gpudirect_rdma.md)<br>
 
 **AI 추론 서비스**<br>
 [분산 AI 추론 서비스를 위한 llm-d](./contents/llm-d_for_distributed_ai_inference.md)<br>
