@@ -10,18 +10,15 @@
 * [GPUDirect RDMA를 통한 모델 훈련 가속화](./contents/accelerate_model_training_with_nvidia_gpudirect_rdma.md)<br>
 
 **AI 추론 서비스**<br>
-[분산 AI 추론 서비스를 위한 llm-d](./contents/llm-d_for_distributed_ai_inference.md)<br>
+* [분산 AI 추론 서비스를 위한 llm-d](./contents/llm-d_for_distributed_ai_inference.md)<br>
 <br>
 
 **AI 에이전트**<br>
-[RHOAI를 통해 AI 에이전트 구축](./contents/build_ai_agent_via_rhoai.md)<br>
+* [RHOAI를 통해 AI 에이전트 구축](./contents/build_ai_agent_via_rhoai.md)<br>
 <br>
 
 **오픈시프트 상에 Llama 스택**<br>
-&nbsp;&nbsp;&nbsp;* [Llama 스택 랩 소개](./llama_stack_on_openshift/intro_of_llama_stack_on_openshift.md)<br>
-&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;<br>
-
+* [Llama 스택 랩 소개](./llama_stack_on_openshift/intro_of_llama_stack_on_openshift.md)<br>
 <br>
 <br>
 
