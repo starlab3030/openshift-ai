@@ -572,4 +572,4 @@ NVidia GPUDirect RDMA는 분산 모델 서빙과 같은 다른 사용 사례의 
 <br>
 
 ------
-[차례](../README.md)
+[차례](/README.md)

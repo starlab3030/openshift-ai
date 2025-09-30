@@ -525,4 +525,4 @@ model = model.merge_and_unload()
 <br>
 
 ------
-[차례](../README.md)
+[차례](/README.md)
