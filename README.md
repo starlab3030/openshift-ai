@@ -6,16 +6,20 @@
 <br>
 
 **모델 훈련**<br>
-* [오픈시프트 상에서 KubeFlow를 통한 LLM Fine-Tuning](./contents/fine-tune_llms_with_kubeflow_trainer_on_openshift.md)<br>
-* [GPUDirect RDMA를 통한 모델 훈련 가속화](./contents/accelerate_model_training_with_nvidia_gpudirect_rdma.md)<br>
+* [오픈시프트 상에서 KubeFlow를 통한 LLM Fine-Tuning](./contents/model-training/fine-tune_llms_with_kubeflow_trainer_on_openshift.md)<br>
+* [GPUDirect RDMA를 통한 모델 훈련 가속화](./contents/model-training/accelerate_model_training_with_nvidia_gpudirect_rdma.md)<br>
+<br>
+<br>
 
 **AI 추론 서비스**<br>
 * [llm-d: 쿠버네티스-네이티브 분산 추론](./contents/llm-d/llm-d_for_k8s-native_distributed_inferencing.md)<br>
 * [분산 AI 추론 서비스를 위한 llm-d](./contents/llm-d/llm-d_for_distributed_ai_inference.md)<br>
 <br>
+<br>
 
 **AI 에이전트**<br>
 * [RHOAI를 통해 AI 에이전트 구축](./contents/build_ai_agent_via_rhoai.md)<br>
+<br>
 <br>
 
 **오픈시프트 상에 Llama 스택**<br>
