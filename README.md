@@ -18,7 +18,7 @@
 <br>
 
 **AI 에이전트**<br>
-* [RHOAI를 통해 AI 에이전트 구축](./contents/build_ai_agent_via_rhoai.md)<br>
+* [RHOAI를 통해 AI 에이전트 구축](./contents/ai-agent/build_ai_agent_via_rhoai.md)<br>
 <br>
 <br>
 
