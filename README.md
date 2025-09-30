@@ -10,7 +10,8 @@
 * [GPUDirect RDMA를 통한 모델 훈련 가속화](./contents/accelerate_model_training_with_nvidia_gpudirect_rdma.md)<br>
 
 **AI 추론 서비스**<br>
-* [분산 AI 추론 서비스를 위한 llm-d](./contents/llm-d_for_distributed_ai_inference.md)<br>
+* [llm-d: 쿠버네티스-네이티브 분산 추론](./contents/llm-d/llm-d_for_k8s-native_distributed_inferencing.md)<br>
+* [분산 AI 추론 서비스를 위한 llm-d](./contents/llm-d/llm-d_for_distributed_ai_inference.md)<br>
 <br>
 
 **AI 에이전트**<br>
