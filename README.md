@@ -14,6 +14,8 @@
 **GPU 활용**<br>
 * [오픈시프트 AI 상에 MIG를 통한 GPU 효율 최대화](./contents/gpu-handling/mig_maximizes_gpu_efficiency_on_openshift_ai.md)
 * [오픈시프트 AI 상에 동적 GPU 슬라이싱](./contents/gpu-handling/dynamic_gpu_slicing_in_openshift.md)
+<br>
+<br>
 
 **AI 추론 서비스**<br>
 * [llm-d: 쿠버네티스-네이티브 분산 추론](./contents/llm-d/llm-d_for_k8s-native_distributed_inferencing.md)<br>
