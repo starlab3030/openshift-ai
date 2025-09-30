@@ -245,4 +245,4 @@ vLLM과 llm-d-inference-scheduler를 활용한 P/D 분리
 <br>
 
 ------
-[차례](../README.md)
+[차례](/README.md)
